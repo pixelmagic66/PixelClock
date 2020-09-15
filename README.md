@@ -13,4 +13,9 @@ I was a little bit puzzled by the uploading of the /data directory, this is what
 - The upload the software from https://github.com/bitlair/wordclock or if you use my layout and connections use my code
 - Connect your WS2812 led strip to the port specified in the code
 - Configure the leds (if needed) in the leds tab of Arduino IDE
+- Configure the words if you use other then I did (Dutch)
 - 
+
+
+The font I used is Dotrice found at https://www.1001fonts.com/dotrice-font.html if you need it for another language or layout, the svg file is in the images directory
+
