@@ -1,4 +1,4 @@
-# wordclock
+# Wordclock Dutch 11x10 
 
 Original software from https://github.com/bitlair/wordclock
 
@@ -17,5 +17,7 @@ I was a little bit puzzled by the uploading of the /data directory, this is what
 - 
 
 
-The font I used is Dotrice found at https://www.1001fonts.com/dotrice-font.html if you need it for another language or layout, the svg file is in the images directory
+The font I used is Dotrice found at https://www.1001fonts.com/dotrice-font.html if you need it for another language or layout, the svg file named Wordclock-face.svg
+
+
 
