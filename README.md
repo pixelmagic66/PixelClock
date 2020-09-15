@@ -1,4 +1,4 @@
-# Wordclock Dutch 11x10 
+# Pixelclock Dutch 11x10 
 
 Original software from https://github.com/bitlair/wordclock
 
