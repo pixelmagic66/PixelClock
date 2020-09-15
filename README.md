@@ -33,6 +33,7 @@ So the order from back to front is:
 - a piece of printer paper
 - the frontplate, I spray painted it with black paint
 
+Note on the svg files for the laser cutter, red lines ar cutting lines, blue lines are for etching (only used on the backside).
 
 Materials I used:
 
@@ -54,6 +55,5 @@ Tools used:
 - Inkscape
 - Fusion360
 
-
-- 
+ 
 
