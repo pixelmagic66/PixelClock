@@ -48,12 +48,13 @@ Materials I used:
 Tools used:
 
 - Laser cutter (K40 type)
+- K40 Whisperer
 - Soldering iron
 - Sanding paper
 - Arduino IDE
-- CorelDRAW!
-- Inkscape
-- Fusion360
+- CorelDRAW! (for the front face)
+- Inkscape (converting to usable date for K40 Whisperer)
+- Fusion360 (the 3d design)
 
  
 
