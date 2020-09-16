@@ -1,6 +1,6 @@
 # Pixelclock Dutch 11x9 1/4 
 
-<img src="https://github.com/pixelmagic66/PixelClock/raw/master/images/Complete-2.png" width="400">
+<img src="https://github.com/pixelmagic66/PixelClock/blob/master/images/PixelClock.png" width="400">
 
 
 Original software from https://github.com/bitlair/wordclock, all credits for the software and design go toward them.
