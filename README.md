@@ -1,5 +1,8 @@
 # Pixelclock Dutch 11x9 1/4 
 
+<img src="https://github.com/pixelmagic66/PixelClock/raw/master/images/Complete-2.png" width="400">
+
+
 Original software from https://github.com/bitlair/wordclock, all credits for the software and design go toward them.
 
 Uses the now (2020) available Hovstra frame from Ikea https://www.ikea.com/nl/nl/p/hovsta-fotolijst-berkenpatroon-berken-80365755/
@@ -57,4 +60,6 @@ Tools used:
 - Fusion360 (the 3d design)
 
  
+
+
 
