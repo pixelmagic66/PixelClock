@@ -3,7 +3,7 @@
 
 class ESP8266WebServer;
 
-static const String emptyString1 = "";
+static const String emptyString = "";
 
 class ESP8266HTTPUpdateServer
 {
@@ -12,12 +12,12 @@ class ESP8266HTTPUpdateServer
 
     void setup(ESP8266WebServer *server)
     {
-      setup(server, emptyString1, emptyString1);
+      setup(server, emptyString, emptyString);
     }
 
     void setup(ESP8266WebServer *server, const String& path)
     {
-      setup(server, path, emptyString1, emptyString1);
+      setup(server, path, emptyString, emptyString);
     }
 
     void setup(ESP8266WebServer *server, const String& username, const String& password)
